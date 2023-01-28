@@ -52,7 +52,7 @@
           <img src="assets/images/2in1 tunic with trousers.jpeg" class="catimg" alt="">
         </div>
         <div class="col">
-          One of three columns
+          
         </div>
         <div class="col">
           One of three columns
