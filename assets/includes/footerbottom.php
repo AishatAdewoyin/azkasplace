@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+ <!-- footer bottom -->
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,7 +10,7 @@
     <link rel="stylesheet" href="assets/fonticons/css/all.css">
     <link rel="stylesheet" href="assets/CSS/style.css">
     <link rel="icon" href="assets/images/AZKA favicon-modified.png">
-    <title>Products</title>
+    <title>Document</title>
     <link rel="stylesheet" href="">
 
     <!-- Google Fonts -->
@@ -19,16 +20,15 @@
 </head>
 
 <body>
-    <!-- Navbar -->
+ <section my-0>
+     <div class="footerbuttom text-center">
+         <span style="color: #FD02FF ;">AZKAS</span><span style="color: #ffae00;">PLACE </span>ALL RIGHT RESERVED<sup style="color: rgb(255, 0, 34); font-size: 15px; padding-top: 5px;"> © </sup>2022, DEVELOPED BY <a href="#" style="color: #ff009d;">DIGITAL INTELLECTUAL HUB</a> | <a href="privacy.html">PRIVACY &
+             POLICY</a>
+     </div>
+ </section>
 
-    <?php
-    include_once "assets/includes/nav.php";
-    ?>
+ <script src="../JS/azkasplace.js"></script>
+ <script src="../JS/bootstrap.bundle.min.js"></script>
 
-
-
-   <script src="assets/JS/bootstrap.bundle.min.js"></script>
-   <script src="assets/JS/azkasplace.js"></script>
 </body>
-
 </html>

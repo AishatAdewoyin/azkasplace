@@ -61,5 +61,6 @@
             </div>
         </nav>
     </section>
-
+   <script src="../JS/bootstrap.bundle.min.js"></script>
+   <script src="../JS/azkasplace.js"></script>
 </body>

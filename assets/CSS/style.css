@@ -177,7 +177,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    color: burlywood;
+    color: #ffae00;
     font-weight: bold;
     transition: .4s ease;
     opacity: .7;
@@ -576,27 +576,6 @@
         width: 100vw;
     }
 
-    .firstcoloffsetimg {
-        height: 201px;
-        width: 201px;
-        /* border-radius: 50%; */
-        position: relative;
-    }
-
-    .secoloffsetimg {
-        height: 201px;
-        width: 201px;
-        /* border-radius: 50%; */
-        position: relative;
-    }
-
-    .fourthcoloffsetimg {
-        height: 201px;
-        width: 201px;
-        /* border-radius: 50%; */
-        position: relative;
-        margin-top: 30px;
-    }
 
     .newarrival h2::after {
         content: '';
@@ -814,87 +793,7 @@
         padding: 20px 0px 20px 0px;
     }
 }
-
-
-
-@media (max-width: 425px) {
-
-    #tog {
-        display: block;
-        border: none;
-        border-radius: 7px;
-        cursor: pointer;
-        background-color: rgb(231, 231, 231);
-
-    }
-
-    .navbar {
-        position: fixed;
-        width: 100%;
-    }
-
-
-    .links {
-        text-decoration: none;
-        color: #ffff;
-        font-size: 16px;
-        font-weight: 600;
-    }
-
-    .navlinks {
-        display: block;
-        list-style: none;
-        background-color: #FD02FF;
-        position: absolute;
-        top: 43px;
-        right: 99px;
-        width: 80%;
-        border-bottom-right-radius: 10px;
-        opacity: 0;
-        transition: .5s ease;
-    }
-
-    .navlinks.show {
-        opacity: 1;
-        z-index: 2;
-    }
-
-    @keyframes show {
-        0% {
-            opacity: 0;
-            top: -200px;
-        }
-
-        50% {
-            opacity: 0;
-            top: 40px;
-        }
-
-        100% {
-            opacity: 1;
-            top: 70px;
-        }
-
-    }
-
-    @keyframes hide {
-        0% {
-            opacity: 1;
-            top: 70px;
-        }
-
-        50% {
-            opacity: 0;
-            top: 40px;
-        }
-
-        100% {
-            opacity: 0;
-            top: -200px;
-        }
-
-    }
-
+    
     .heroimg {
         position: absolute;
         right: 10px;
@@ -944,10 +843,3 @@
         top: 90px;
         left: 42px;
     }
-
-
-    .show {
-        animation: click duration timing-function delay iteration-count direction fill-mode;
-    }
-
-}
