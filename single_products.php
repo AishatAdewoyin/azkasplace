@@ -1,5 +1,4 @@
- <!-- footer bottom -->
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,7 +9,7 @@
     <link rel="stylesheet" href="assets/fonticons/css/all.css">
     <link rel="stylesheet" href="assets/CSS/style.css">
     <link rel="icon" href="assets/images/AZKA favicon-modified.png">
-    <title>Document</title>
+    <title>Products</title>
     <link rel="stylesheet" href="">
 
     <!-- Google Fonts -->
@@ -18,17 +17,27 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Kaushan+Script&family=Metal&family=Nobile:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
 </head>
-
 <body>
- <section my-0>
-     <div class="footerbuttom mt-5 text-center">
-         <span style="color: #FD02FF ;">AZKAS</span><span style="color: #ffae00;">PLACE </span>ALL RIGHT RESERVED<sup style="color: rgb(255, 0, 34); font-size: 15px; padding-top: 5px;"> © </sup>2022, DEVELOPED BY <a href="#" style="color: #ff009d;">DIGITAL INTELLECTUAL HUB</a> | <a href="privacy.html">PRIVACY &
-             POLICY</a>
-     </div>
- </section>
+    <!-- Navbar -->
 
- <script src="../JS/azkasplace.js"></script>
- <script src="../JS/bootstrap.bundle.min.js"></script>
+    <?php
+    include_once "assets/includes/nav.php";
+    ?>
 
+
+
+
+
+
+    <!-- footer -->
+    <?php
+    include_once "assets/includes/footer.php"
+    ?>
+    <!-- footer bottom -->
+    <?php
+    include_once "assets/includes/footerbottom.php"
+    ?>
+    <script src="assets/JS/bootstrap.bundle.min.js"></script>
+    <script src="assets/JS/azkasplace.js"></script>
 </body>
 </html>

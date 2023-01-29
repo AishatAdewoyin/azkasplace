@@ -44,11 +44,11 @@
   </section>
 
   <!-- categories section -->
-  <section class="container catg mt-5">
+  <section class="container catg">
     <h4 class="catheading">CATEGORIES</h4>
     <div class="row p-0 mt-3">
       <!-- ONE -->
-      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+      <div class="one col-4 p-0">
         <img class="img-fluid" src="assets/images/2in1 tunic with trousers.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
@@ -56,7 +56,7 @@
         </div>
       </div>
       <!-- TWO -->
-      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+      <div class="one col-4 p-0 h-70">
         <img class="img-fluid" src="assets/images/shirt and gown.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
@@ -64,7 +64,7 @@
         </div>
       </div>
       <!-- THREE -->
-      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+      <div class="one col-4 p-0">
         <img class="img-fluid" src="assets/images/quality gown.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
@@ -464,7 +464,7 @@
     </div>
   </section>
   <!-- Blog -->
-  <section class="container">
+  <section class="container mt-5">
     <div class="blogheading">
       <h1>BL<span style="color:#FD02FF ;">OG</span></h1>
     </div>
@@ -499,51 +499,15 @@
     </div>
   </section>
 
-  <!-- Footer -->
-  <section class="">
-    <div class="container footer1 shadow-lg">
-      <div class="row row-cols-lg-3 row-cols-md-3 row-cols-sm-3 m-1 p-3">
-        <div class="col text-dark firstcolingridf">
-          <div class="col secondgridf">
-            <h1>QUICK LINKS</h1>
-            <ul class="ulfooterlinks">
-              <li>
-                <a href="affiliate.html" class="footerlinks"> Become an Affiliate</a>
-              </li>
-              <li>
-                <a href="products.html" class="footerlinks">Products of Interest</a>
-              </li>
-              <li>
-                <a href="contact.html" class="footerlinks">Contact Us</a>
-              </li>
-              <li>
-                <a href="about.html" class="footerlinks">About Us</a>
-            </ul>
-          </div>
-        </div>
-        <div class="col text-dark firstcolingridf">
-          <div class="col secondgridf">
-            <h1>PAYMENT METHODS</h1>
-            <img src="assets/images/payment methods.png" class="payment" alt="">
-          </div>
-        </div>
-        <div class="col text-dark firstcolingridf">
-          <div class="col secondgridf">
-            <h1>SERVICES</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto inventore vitae neque nam unde
-              accusantium impedit at temporibus odit perferendis!</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  <!-- footer -->
+  <?php
+    include_once "assets/includes/footer.php"
+    ?>
 
   <!-- footer bottom -->
-  <section my-0>
-    <div class="footerbuttom text-center">
-      <span style="color: #FD02FF ;">AZKAS</span><span style="color: #ffae00;">PLACE </span>ALL RIGHT RESERVED<sup style="color: rgb(255, 0, 34); font-size: 15px; padding-top: 5px;"> © </sup>2022, DEVELOPED BY <a href="#" style="color: #ff009d;">DIGITAL INTELLECTUAL HUB</a> | <a href="privacy.html">PRIVACY & POLICY</a>
-    </div>
-  </section>
+  <?php 
+   include_once "assets/includes/footerbottom.php"
+  ?>
 
   <script src="assets/JS/bootstrap.bundle.min.js"></script>
 </body>
