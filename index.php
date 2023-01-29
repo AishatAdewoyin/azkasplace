@@ -46,16 +46,29 @@
   <!-- categories section -->
   <section class="container catg mt-5">
     <h4 class="catheading">CATEGORIES</h4>
-    <div class="text-center">
-      <div class="row align-items-end">
-        <div class="col">
-          <img src="assets/images/2in1 tunic with trousers.jpeg" class="catimg" alt="">
+    <div class="row p-0 mt-3">
+      <!-- ONE -->
+      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+        <img class="img-fluid" src="assets/images/2in1 tunic with trousers.jpeg" alt="">
+        <div class="details">
+          <h2>High Quality Wears</h2>
+          <button class="btn btn-sm catbtn">SHOP NOW</button>
         </div>
-        <div class="col">
-          
+      </div>
+      <!-- TWO -->
+      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+        <img class="img-fluid" src="assets/images/shirt and gown.jpeg" alt="">
+        <div class="details">
+          <h2>High Quality Wears</h2>
+          <button class="btn btn-sm catbtn">SHOP NOW</button>
         </div>
-        <div class="col">
-          One of three columns
+      </div>
+      <!-- THREE -->
+      <div class="one col-lg-4 col-md-12 col-sm-12 p-0">
+        <img class="img-fluid" src="assets/images/quality gown.jpeg" alt="">
+        <div class="details">
+          <h2>High Quality Wears</h2>
+          <button class="btn btn-sm catbtn">SHOP NOW</button>
         </div>
       </div>
     </div>

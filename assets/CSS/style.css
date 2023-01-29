@@ -6,29 +6,37 @@
     font-weight: 600;
 }
 
-.navbar{
+.navbar {
     background-color: #FD02FF !important;
-} 
+}
 
-.navbrand{
+.navbrand {
     width: 125px;
     height: 35px;
 }
 
-.nav-buttons{
+.nav-buttons {
     margin-left: 58%;
 }
 
-.links{
-    color: antiquewhite;
+.links {
+    color: rgb(255, 255, 255);
     transition: 0.4s ease;
 }
 
-.navbar i{
-    color: antiquewhite;
+.iconli {
     text-decoration: none;
-    font-size: 1.1rem;
-    padding: 2 0 .7px;
+    margin-left: 6px;
+}
+
+.navicons {
+    font-size: 1rem;
+    padding: 7px 0 0 2px;
+}
+
+.iconli :hover {
+    color: rgba(0, 0, 0, 0.7);
+    transition: 0.4s ease;
 }
 
 
@@ -114,8 +122,7 @@
 
 /* categpries */
 .catg {
-    margin-top: 10% !important; 
-    width: 100%;
+    margin-top: 10% !important;
     letter-spacing: 1px;
     background-color: #ff02ff11;
 }
@@ -139,10 +146,75 @@
     top: 34px;
 }
 
-.catimg{
+.details h2 {
+    font-size: 25px;
+}
+
+.catg .one img {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.catbtn {
+    background-color: #ffae00 !important;
+    color: white;
+    font-weight: 600;
+}
+
+.catbtn :hover {
+    background-color: aliceblue !important;
+    color: #000000;
+}
+
+.catg .one {
+    position: relative;
+}
+
+.catg .one .details {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: burlywood;
+    font-weight: bold;
+    transition: .4s ease;
+    opacity: .7;
+    background-color: rgb(1, 1, 1);
+    height: 100%;
     width: 100%;
 }
 
+.catg .one .details:hover{
+     background-color: #ff02ff34;
+}
+
+.catg .one:nth-child(1) .details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: start;
+    margin-left: 3%;
+}
+
+.catg .one:nth-child(2) .details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.catg .one:nth-child(3) .details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: end;
+    margin-right: 6%;
+}
 
 /* Featured Products */
 
@@ -456,14 +528,14 @@
     padding: 24px;
 }
 
-.forgotpass a{
+.forgotpass a {
     text-decoration: none;
     color: #000000;
     letter-spacing: 0;
     display: none;
 }
 
-.forgotpass a:hover{
+.forgotpass a:hover {
     color: blue;
 }
 
@@ -548,6 +620,14 @@
     }
 
 
+}
+
+@media (max-width: 1028) {
+    .navbar-nav {
+        font-size: 14px;
+        margin-left: -26%;
+
+    }
 }
 
 @media (max-width: 991) {
