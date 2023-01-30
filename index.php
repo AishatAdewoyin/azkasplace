@@ -99,7 +99,7 @@
     <h2>BEST SELLING</h2>
     <div class="">
       <div class="row row-cols-2 frow">
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -115,13 +115,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -137,13 +145,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -159,13 +175,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -181,13 +205,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -203,13 +235,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -225,13 +265,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -247,13 +295,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -269,14 +325,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </section>
 
   <!-- New Arrivals -->
@@ -284,29 +347,7 @@
     <h2>NEW ARRIVALS</h2>
     <div class="">
       <div class="row row-cols-2 newarrivalrow">
-        <div class=" col col-md-3 product-column">
-          <div class="product-top">
-            <a href="#">
-              <img src="assets/images/cute lady.jpg" class="newarrivalptimg" alt="">
-            </a>
-            <div class="overlay">
-              <button type="button" class="btn btn-secondary" title="Quick Shop">
-                <i class="fa fa-solid fa-eye"></i>
-              </button>
-              <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                <i class="fa fa-regular fa-heart"></i>
-              </button>
-              <button type="button" class="btn btn-secondary" title="Add to Cart">
-                <i class="fa fa-solid fa-cart-plus"></i>
-              </button>
-            </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
-            </div>
-          </div>
-        </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -322,13 +363,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -344,13 +393,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -366,13 +423,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -388,13 +453,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -410,13 +483,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -432,13 +513,21 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
-        <div class=" col col-md-3 product-column">
+        <div class=" col col-md-3 product-column mb-4">
           <div class="product-top">
             <a href="#">
               <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
@@ -454,9 +543,47 @@
                 <i class="fa fa-solid fa-cart-plus"></i>
               </button>
             </div>
-            <div class="product-bottom text-center">
-              <h3>Sport Turkey Gown</h3>
-              <h5>N25,000</h5>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
+            </div>
+          </div>
+        </div>
+        <div class=" col col-md-3 product-column mb-4">
+          <div class="product-top">
+            <a href="#">
+              <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+            </a>
+            <div class="overlay">
+              <button type="button" class="btn btn-secondary" title="Quick Shop">
+                <i class="fa fa-solid fa-eye"></i>
+              </button>
+              <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                <i class="fa fa-regular fa-heart"></i>
+              </button>
+              <button type="button" class="btn btn-secondary" title="Add to Cart">
+                <i class="fa fa-solid fa-cart-plus"></i>
+              </button>
+            </div>
+
+            <div class="product-bottom text-center mt-2">
+              <!-- <div class="star">
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+              <i class="fas fa star"></i>
+            </div> -->
+              <h3 class="pname">Sport Turkey Gown</h3>
+              <h5 class="p-price">N25,000</h5>
+              <button class="buy-btn">Buy Now</button>
             </div>
           </div>
         </div>
@@ -501,12 +628,12 @@
 
   <!-- footer -->
   <?php
-    include_once "assets/includes/footer.php"
-    ?>
+  include_once "assets/includes/footer.php"
+  ?>
 
   <!-- footer bottom -->
-  <?php 
-   include_once "assets/includes/footerbottom.php"
+  <?php
+  include_once "assets/includes/footerbottom.php"
   ?>
 
   <script src="assets/JS/bootstrap.bundle.min.js"></script>
