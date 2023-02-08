@@ -92,7 +92,7 @@
     <section class="container single-products pt-5">
         <div class="row mt-5">
             <div class="col-lg-5 col-md-6 col-sm-4">
-                <img src="assets/images/beautiful black gown.jpeg" class="img-fluid w-100 pb-1" alt="">
+                <img src="assets/images/beautiful black gown.jpeg" id="main-img" class="img-fluid w-100 pb-1"  alt="">
                 <div class="small-img-group">
                     <div class="small-img-col">
                         <img src="assets/images/shirt and gown.jpeg" width="100%" class="small-img" alt="">
@@ -147,7 +147,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>

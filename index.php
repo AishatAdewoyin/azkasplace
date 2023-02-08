@@ -52,7 +52,7 @@
         <img class="img-fluid" src="assets/images/2in1 tunic with trousers.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
-          <button class="btn btn-sm catbtn">SHOP NOW</button>
+          <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>
       <!-- TWO -->
@@ -60,7 +60,7 @@
         <img class="img-fluid" src="assets/images/shirt and gown.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
-          <button class="btn btn-sm catbtn">SHOP NOW</button>
+          <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>
       <!-- THREE -->
@@ -68,7 +68,7 @@
         <img class="img-fluid" src="assets/images/quality gown.jpeg" alt="">
         <div class="details">
           <h2>High Quality Wears</h2>
-          <button class="btn btn-sm catbtn">SHOP NOW</button>
+          <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>
     </div>
@@ -117,15 +117,9 @@
             </div>
 
             <div class="product-bottom text-center mt-2">
-              <!-- <div class="star">
-              <i class="fas fa star"></i>
-              <i class="fas fa star"></i>
-              <i class="fas fa star"></i>
-              <i class="fas fa star"></i>
-            </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -155,7 +149,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -185,7 +179,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -215,7 +209,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -245,7 +239,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -275,7 +269,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -305,7 +299,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -335,7 +329,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -373,7 +367,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -403,7 +397,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -433,7 +427,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -463,7 +457,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -493,7 +487,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -523,7 +517,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -553,7 +547,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -583,7 +577,7 @@
             </div> -->
               <h3 class="pname">Sport Turkey Gown</h3>
               <h5 class="p-price">N25,000</h5>
-              <button class="buy-btn">Buy Now</button>
+              <a href="#"><button class="buy-btn">Buy Now</button></a>
             </div>
           </div>
         </div>
@@ -596,7 +590,7 @@
       <h1>BL<span style="color:#FD02FF ;">OG</span></h1>
     </div>
     <div class="row py-5">
-      <div class="card col-md-4 mx-3 blogcol" style="width: 21rem;">
+      <div class="card col-lg-4 col-md-4 col-sm-4 mx-3 blogcol" style="width: 21rem;">
         <img src="assets/images/cute lady.jpg" class="card-img-top cardimg" alt="...">
         <div class="card-body">
           <h5 class="card-title cardtitle">Card title</h5>

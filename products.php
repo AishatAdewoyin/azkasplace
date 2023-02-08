@@ -19,22 +19,9 @@
 </head>
 
 <style>
-   /* .product-top img{
-       width: 100%;
-       height: auto; 
-       box-sizing: border-box;
-       object-fit: cover;
-       overflow: hidden;
-   }  */
-
-   .pagination a{
-    color: coral !important;
-   }
-
-   /* .pagination li:hover{
-    color: #ffff !important;
-    background-color: coral !important;
-   } */
+    .pagination a {
+        color: coral !important;
+    }
 </style>
 
 <body>
@@ -44,10 +31,10 @@
     include_once "assets/includes/nav.php";
     ?>
 
-    <section class="container bestselling py-5">
+    <section class="container text-center bestselling py-5">
         <h3>Our Products</h3>
         <hr>
-        <p>Our product are available</p>
+        <p>Available Products</p>
         <div class="">
             <div class="row row-cols-2 frow">
                 <div class="col col-md-3 product-column">
@@ -66,9 +53,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -88,9 +76,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -110,9 +99,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -132,9 +122,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -154,9 +145,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -176,9 +168,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -198,9 +191,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -220,9 +214,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -248,9 +243,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -270,9 +266,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -292,9 +289,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -314,9 +312,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -336,9 +335,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -358,9 +358,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -380,9 +381,10 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -402,763 +404,972 @@
                                 <i class="fa fa-solid fa-cart-plus"></i>
                             </button>
                         </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <section class="container bestselling mt-5">
-        <div class="">
-            <div class="row row-cols-2 frow">
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="container bestselling mt-5">
-        <div class="">
-            <div class="row row-cols-2 frow">
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="container bestselling mt-5">
-        <div class="">
-            <div class="row row-cols-2 frow">
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="container bestselling mt-5">
-        <div class="">
-            <div class="row row-cols-2 frow">
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class=" col col-md-3 product-column">
-                    <div class="product-top">
-                        <a href="#">
-                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
-                        </a>
-                        <div class="overlay">
-                            <button type="button" class="btn btn-secondary" title="Quick Shop">
-                                <i class="fa fa-solid fa-eye"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
-                                <i class="fa fa-regular fa-heart"></i>
-                            </button>
-                            <button type="button" class="btn btn-secondary" title="Add to Cart">
-                                <i class="fa fa-solid fa-cart-plus"></i>
-                            </button>
-                        </div>
-                        <div class="product-bottom text-center">
-                            <h3>Sport Turkey Gown</h3>
-                            <h5>N25,000</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <nav aria-label= "page navigation">
-                  <ul class="pagination mt-5">
-                    <li class="page-item">
-                        <a href="#" class="page-link">Previous</a>
-                    </li>
-                    <li class="page-item">
-                        <a href="#" class="page-link">1</a>
-                    </li>
-                    <li class="page-item">
-                        <a href="#" class="page-link">2</a>
-                    </li>
-                    <li class="page-item">
-                        <a href="#" class="page-link">3</a>
-                    </li>
-                    <li class="page-item">
-                        <a href="#" class="page-link">Next</a>
-                    </li>
-                  </ul>
-            </nav>
         </div>
     </section>
 
+    <section class="container bestselling mt-5">
+        <div class="">
+            <div class="row row-cols-2 frow">
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container bestselling mt-5">
+        <div class="">
+            <div class="row row-cols-2 frow">
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container bestselling mt-5">
+        <div class="">
+            <div class="row row-cols-2 frow">
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container bestselling mt-5">
+        <div class="">
+            <div class="row row-cols-2 frow">
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container bestselling mt-5">
+        <div class="">
+            <div class="row row-cols-2 frow">
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col col-md-3 product-column">
+                    <div class="product-top">
+                        <a href="#">
+                            <img src="assets/images/cute lady.jpg" class="ptimg" alt="">
+                        </a>
+                        <div class="overlay">
+                            <button type="button" class="btn btn-secondary" title="Quick Shop">
+                                <i class="fa fa-solid fa-eye"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Wishlist">
+                                <i class="fa fa-regular fa-heart"></i>
+                            </button>
+                            <button type="button" class="btn btn-secondary" title="Add to Cart">
+                                <i class="fa fa-solid fa-cart-plus"></i>
+                            </button>
+                        </div>
+                        <div class="product-bottom text-center m-3">
+                            <h3 class="pname">Sport Turkey Gown</h3>
+                            <h5 class="p-price">N25,000</h5>
+                            <a href="#"><button class="buy-btn">Buy Now</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
 
 
     <!-- footer -->
