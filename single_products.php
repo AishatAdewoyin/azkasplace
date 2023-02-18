@@ -92,19 +92,19 @@
     <section class="container single-products pt-5">
         <div class="row mt-5">
             <div class="col-lg-5 col-md-6 col-sm-4">
-                <img src="assets/images/beautiful black gown.jpeg" id="main-img" class="img-fluid w-100 pb-1"  alt="">
+                <img src="assets/images/beautiful black gown.jpeg" id="mainImg" class="img-fluid w-100 pb-1" alt="">
                 <div class="small-img-group">
                     <div class="small-img-col">
-                        <img src="assets/images/shirt and gown.jpeg" width="100%" class="small-img" alt="">
+                        <img src="assets/images/shirt and gown.jpeg" width="100%" class="small-img" data-img="assets/images/beautiful black gown.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/beautiful plitted gown.jpeg" width="100%" class="small-img" alt="">
+                        <img src="assets/images/beautiful plitted gown.jpeg" width="100%" class="small-img" data-img="assets/images/beautiful plitted gown.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" alt="">
+                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" alt="">
+                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
                     </div>
                 </div>
             </div>
