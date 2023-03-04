@@ -18,6 +18,33 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Kaushan+Script&family=Metal&family=Nobile:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
 </head>
 
+<style>
+
+.related-products {
+        margin-top: 10%;
+        width: 100%;
+        letter-spacing: 1px;
+        background-color: #ff02ff11;
+    }
+
+    .product-column .r-buy-btn {
+        background-color: #ffae00;
+        transform: translateY(50px);
+        opacity: 0;
+        transition: -4 all;
+        border: none;
+        color: #ffff;
+        padding: 5px 20px;
+        border-radius: 5px;
+    }
+
+    .product-column:hover .r-buy-btn {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+
+</style>
+
 <body>
     <!-- Navbar -->
 
@@ -28,7 +55,7 @@
     <!-- Related Products -->
 
     <section class="container related-products py-5">
-        <h3 class="text-center text-secondary">Related Products</h3>
+        <h3 class="text-center text-secondary">Newly Featured</h3>
         <hr>
         <p class="text-center text-secondary">Find products related to your chosen product(s)</p>
         <div class="">
@@ -75,7 +102,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +125,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +148,7 @@
                         <div class="product-bottom text-center">
                             <h3 class="pname">Sport Turkey Gown</h3>
                             <h5 class="p-price">N25,000</h5>
-                            <button class="r-buy-btn">Buy Now</button>
+                            <a href="#"><button class="r-buy-btn">Buy Now</button></a>
                         </div>
                     </div>
                 </div>
