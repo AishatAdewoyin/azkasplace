@@ -1,2 +1,2 @@
 # azkasplace
-Azkasplace an e-commerce high quality clothing seller in Lagos, Nigeria 
+Azkasplace an e-commerce website. Front-End
