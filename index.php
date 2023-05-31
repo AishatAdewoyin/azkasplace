@@ -51,7 +51,7 @@
       <div class="one col-4 p-0">
         <img class="img-fluid" src="assets/images/2in1 tunic with trousers.jpeg" alt="">
         <div class="details">
-          <h2>High Quality Wears</h2>
+          <h2>Tunic Dresses</h2>
           <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>
@@ -59,7 +59,7 @@
       <div class="one col-4 p-0 h-70">
         <img class="img-fluid" src="assets/images/shirt and gown.jpeg" alt="">
         <div class="details">
-          <h2>High Quality Wears</h2>
+          <h2>High Quality Veils</h2>
           <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>
@@ -67,7 +67,7 @@
       <div class="one col-4 p-0">
         <img class="img-fluid" src="assets/images/quality gown.jpeg" alt="">
         <div class="details">
-          <h2>High Quality Wears</h2>
+          <h2>High Quality Gowns</h2>
           <a href="products.php"><button class="btn btn-sm catbtn">SHOP NOW</button></a>
         </div>
       </div>

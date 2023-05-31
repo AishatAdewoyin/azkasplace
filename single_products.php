@@ -27,7 +27,7 @@
     }
 
     .small-img-col {
-        flex-basis: 25%;
+        flex-basis: 24%;
         cursor: pointer;
 
     }

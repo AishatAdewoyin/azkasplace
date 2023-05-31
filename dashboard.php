@@ -26,7 +26,7 @@
         <main class="mainbody">
 
         </main>
-    </section> -->
+    </section>
 
     <script src="assets/JS/azkasplace.js"></script>
 </body>
