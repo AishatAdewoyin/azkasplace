@@ -15,7 +15,9 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Kaushan+Script&family=Metal&family=Nobile:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Kaushan+Script&family=Metal&family=Nobile:wght@500&family=Roboto:wght@500&display=swap"
+        rel="stylesheet">
 </head>
 
 <!-- CSS -->
@@ -83,10 +85,47 @@
 
 <body>
     <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-light fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <img src="assets/images/AZKA white bgcropped.png" alt="" class="navbrand" />
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-    <?php
-    include_once "assets/includes/nav.php";
-    ?>
+            <div class="collapse navbar-collapse nav-buttons" id="navbarSupportedContent">
+                <ul class="navbar-nav navlinks me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link links" href="products.html">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link links" href="affiliate.html">Affiliate</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link links" href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link links" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link links" href="contact.html">Contact</a>
+                    </li>
+                    <li class="navicons">
+                        <a href="cart" class="text-light iconli">
+                            <i class="fa-solid fa-basket-shopping"></i>
+                        </a>
+                        <a href="login.html" class="text-light iconli">
+                            <i class="fa-solid fa-user"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
     <!-- Single Products -->
 
     <section class="container single-products pt-5">
@@ -95,16 +134,20 @@
                 <img src="assets/images/beautiful black gown.jpeg" id="mainImg" class="img-fluid w-100 pb-1" alt="">
                 <div class="small-img-group">
                     <div class="small-img-col">
-                        <img src="assets/images/shirt and gown.jpeg" width="100%" class="small-img" data-img="assets/images/beautiful black gown.jpeg" alt="">
+                        <img src="assets/images/shirt and gown.jpeg" width="100%" class="small-img"
+                            data-img="assets/images/beautiful black gown.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/beautiful plitted gown.jpeg" width="100%" class="small-img" data-img="assets/images/beautiful plitted gown.jpeg" alt="">
+                        <img src="assets/images/beautiful plitted gown.jpeg" width="100%" class="small-img"
+                            data-img="assets/images/beautiful plitted gown.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
+                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img"
+                            data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
                     </div>
                     <div class="small-img-col">
-                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img" data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
+                        <img src="assets/images/2in1 tunic with trousers.jpeg" width="100%" class="small-img"
+                            data-img="assets/images/2in1 tunic with trousers.jpeg" alt="">
                     </div>
                 </div>
             </div>
@@ -115,7 +158,14 @@
                 <input type="number" value="1">
                 <button class="btn btn-light buy-btn px-5">Add to cart</button>
                 <h4 class="mt-5 mb-2">Product Details</h4>
-                <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio culpa asperiores dolores, impedit odio nobis accusantium labore reiciendis praesentium repudiandae consequatur, quae in neque. Veritatis illum quos saepe asperiores similique aut corrupti voluptatem modi, quibusdam, eaque dolorum, pariatur mollitia rerum cumque? Ipsam odio at mollitia autem cum temporibus nam, officia, culpa illo, earum architecto facilis minima. Sint nemo, officiis culpa asperiores minima fuga deserunt facere incidunt illum aspernatur magnam? Similique, cupiditate esse ad error placeat fuga expedita molestias nobis iusto. Rerum architecto quos fugiat ad suscipit quas itaque veritatis, iste deserunt magnam autem, tempore </span>
+                <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio culpa asperiores dolores, impedit
+                    odio nobis accusantium labore reiciendis praesentium repudiandae consequatur, quae in neque.
+                    Veritatis illum quos saepe asperiores similique aut corrupti voluptatem modi, quibusdam, eaque
+                    dolorum, pariatur mollitia rerum cumque? Ipsam odio at mollitia autem cum temporibus nam, officia,
+                    culpa illo, earum architecto facilis minima. Sint nemo, officiis culpa asperiores minima fuga
+                    deserunt facere incidunt illum aspernatur magnam? Similique, cupiditate esse ad error placeat fuga
+                    expedita molestias nobis iusto. Rerum architecto quos fugiat ad suscipit quas itaque veritatis, iste
+                    deserunt magnam autem, tempore </span>
             </div>
         </div>
     </section>
@@ -227,13 +277,53 @@
 
 
     <!-- footer -->
-    <?php
-    include_once "assets/includes/footer.php"
-    ?>
-    <!-- footer bottom -->
-    <?php
-    include_once "assets/includes/footerbottom.php"
-    ?>
+  <section class="">
+         <div class="container footer1 shadow-lg">
+             <div class="row row-cols-lg-3 row-cols-md-3 row-cols-sm-3 m-1 p-3">
+                 <div class="col text-dark firstcolingridf">
+                     <div class="col secondgridf">
+                         <h1>QUICK LINKS</h1>
+                         <ul class="ulfooterlinks">
+                             <li>
+                                 <a href="affiliate.html" class="footerlinks"> Become an Affiliate</a>
+                             </li>
+                             <li>
+                                 <a href="products.html" class="footerlinks">Products of Interest</a>
+                             </li>
+                             <li>
+                                 <a href="contact.html" class="footerlinks">Contact Us</a>
+                             </li>
+                             <li>
+                                 <a href="about.html" class="footerlinks">About Us</a>
+                         </ul>
+                     </div>
+                 </div>
+                 <div class="col text-dark firstcolingridf">
+                     <div class="col secondgridf">
+                         <h1>PAYMENT METHODS</h1>
+                         <img src="assets/images/payment methods.png" class="payment" alt="">
+                     </div>
+                 </div>
+                 <div class="col text-dark firstcolingridf">
+                     <div class="col secondgridf">
+                         <h1>SERVICES</h1>
+                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto inventore vitae neque nam unde
+                             accusantium impedit at temporibus odit perferendis!</p>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </section>
+
+  <!-- footer bottom -->
+   <section my-0>
+     <div class="footerbuttom mt-5 text-center">
+         <span style="color: #FD02FF ;">AZKAS</span><span style="color: #ffae00;">PLACE </span>ALL RIGHT RESERVED<sup style="color: rgb(255, 0, 34); font-size: 15px; padding-top: 5px;"> © </sup>2022, DEVELOPED BY <a href="#" style="color: #ff009d;">DIGITAL INTELLECTUAL HUB</a> | <a href="privacy.html">PRIVACY &
+             POLICY</a>
+     </div>
+ </section>
+    <!-- footer bottom End -->
+    <script src="assets/JS/bootstrap.min.js"></script>
     <script src="assets/JS/bootstrap.bundle.min.js"></script>
     <script src="assets/JS/azkasplace.js"></script>
 </body>
